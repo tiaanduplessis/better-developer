@@ -1,0 +1,10 @@
+{
+    "name": "better-developer",
+    "description": "Collection of resources for becoming a better developer",
+    "scripts": {
+        "format": "prettier --write ./**/*.md"
+    },
+    "devDependencies": {
+        "prettier": "^1.12.0"
+    }
+}
