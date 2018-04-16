@@ -1,5 +1,7 @@
 # better-developer
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/tiaanduplessis/better-developer.svg)](https://greenkeeper.io/)
+
 [![make a pull request](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 > Collection of resources for becoming a better developer
