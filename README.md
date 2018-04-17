@@ -23,6 +23,10 @@ This list is a collection of developer focused talks, articles & books which I e
 * [Martin Thompson - Engineering You](https://www.youtube.com/watch?v=S4LzzuMTqjs) `44:05`
 * [Robert "Uncle Bob" Martin - The Scribe's Oath](https://www.youtube.com/watch?v=Tng6Fox8EfI) `59:14`
 
+### 2016
+
+* [Kevlin Henney - Seven Ineffective Coding Habits of Many Programmers](https://www.youtube.com/watch?v=ZsHMHukIlJY) `46:28`
+
 ## Contribute
 
 1.  Fork it and create your feature branch: git checkout -b my-new-feature
