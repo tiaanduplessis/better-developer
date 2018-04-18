@@ -7,6 +7,7 @@
 ## Table of Contents
 
 * [About](#about)
+* [Articles](#articles)
 * [Talks](#talks)
 * [Contribute](#contribute)
 * [License](#License)
@@ -14,6 +15,10 @@
 ## About
 
 This list is a collection of developer focused talks, articles & books which I enjoyed. Made public to benefit others that may stumble upon it.
+
+## Articles
+
+* [The mythical 10x programmer](http://antirez.com/news/112)
 
 ## Talks
 
