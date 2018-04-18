@@ -26,6 +26,7 @@ This list is a collection of developer focused talks, articles & books which I e
 ### 2016
 
 * [Kevlin Henney - Seven Ineffective Coding Habits of Many Programmers](https://www.youtube.com/watch?v=ZsHMHukIlJY) `46:28`
+* [Kevlin Henney - The Error of Our Ways](https://www.youtube.com/watch?v=IiGXq3yY70o) `49:44`
 
 ## Contribute
 
