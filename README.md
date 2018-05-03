@@ -22,6 +22,10 @@ This list is a collection of developer focused talks, articles & books which I e
 
 ## Talks
 
+### 2018
+
+* [Christian Heilmann - Sacrificing The Golden Calf Of “CODING”](https://www.youtube.com/watch?v=xMU9XuUtOOY) `46:53`
+
 ### 2017
 
 * [Jessica Kerr - Forget Velocity, Let's Talk Acceleration](https://www.youtube.com/watch?v=Lbcyyu8XB_Y) `54:46`
