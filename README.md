@@ -31,6 +31,7 @@ This list is a collection of developer focused talks, articles & books which I e
 * [Jessica Kerr - Forget Velocity, Let's Talk Acceleration](https://www.youtube.com/watch?v=Lbcyyu8XB_Y) `54:46`
 * [Martin Thompson - Engineering You](https://www.youtube.com/watch?v=S4LzzuMTqjs) `44:05`
 * [Robert "Uncle Bob" Martin - The Scribe's Oath](https://www.youtube.com/watch?v=Tng6Fox8EfI) `59:14`
+* [Ted Neward - Programming + Philosophy + Psychology](https://www.youtube.com/watch?v=NvH3qarVPcA) `1:19:15`
 
 ### 2016
 
