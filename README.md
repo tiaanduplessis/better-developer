@@ -29,6 +29,7 @@ This list is a collection of developer focused talks, articles & books which I e
 
 ### 2017
 
+* [Dan North - Beyond Developer](https://www.youtube.com/watch?v=wYEk0y8LYfg) `52:48`
 * [Jessica Kerr - Forget Velocity, Let's Talk Acceleration](https://www.youtube.com/watch?v=Lbcyyu8XB_Y) `54:46`
 * [Martin Thompson - Engineering You](https://www.youtube.com/watch?v=S4LzzuMTqjs) `44:05`
 * [Robert "Uncle Bob" Martin - The Scribe's Oath](https://www.youtube.com/watch?v=Tng6Fox8EfI) `59:14`
