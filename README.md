@@ -26,6 +26,7 @@ This list is a collection of developer focused talks, articles & books which I e
 
 * [Christian Heilmann - Sacrificing The Golden Calf Of “CODING”](https://www.youtube.com/watch?v=xMU9XuUtOOY) `46:53`
 * [Kevlin Henney - Old Is the New New](https://www.youtube.com/watch?v=AbgsfeGvg3E) `50:22`
+* [Lee Byron - Immutable Application Architecture](https://youtu.be/oTcDmnAXZ4E) `31:10`
 
 ### 2017
 
