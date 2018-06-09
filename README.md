@@ -28,6 +28,7 @@ This list is a collection of developer focused talks, articles & books which I e
 * [John Papa - Ready for Readable Code?](https://youtu.be/56mETnrByBM) `16:49`
 * [Kevlin Henney - Old Is the New New](https://www.youtube.com/watch?v=AbgsfeGvg3E) `50:22`
 * [Lee Byron - Immutable Application Architecture](https://youtu.be/oTcDmnAXZ4E) `31:10`
+* [Patricia Aas - Reading Other People's Code: 10 Effective Techniques](https://www.youtube.com/watch?v=NLmRl1cflhA) `23:31`
 
 ### 2017
 
