@@ -48,6 +48,10 @@ This list is a collection of developer focused talks, articles & books which I e
 
 * [Robert C Martin - Professional Software Development](https://www.youtube.com/watch?v=zwtg7lIMUaQ) `1:00:07`
 
+### 2014
+
+* [Martin Fowler - Not Just Code Monkeys](https://youtu.be/4E3xfR6IBII) `21:28`
+
 ## Contribute
 
 1.  Fork it and create your feature branch: git checkout -b my-new-feature
