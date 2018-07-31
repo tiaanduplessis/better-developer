@@ -52,6 +52,10 @@ This list is a collection of developer focused talks, articles & books which I e
 
 * [Martin Fowler - Not Just Code Monkeys](https://youtu.be/4E3xfR6IBII) `21:28`
 
+### 2012
+
+* [Scott Hanselman - Scaling Yourself](https://youtu.be/FS1mnISoG7U) `28:51`
+
 ## Contribute
 
 1.  Fork it and create your feature branch: git checkout -b my-new-feature
