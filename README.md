@@ -52,6 +52,10 @@ This list is a collection of developer focused talks, articles & books which I e
 
 * [Martin Fowler - Not Just Code Monkeys](https://youtu.be/4E3xfR6IBII) `21:28`
 
+### 2013
+
+* [Bret Victor - The Future of Programming](https://youtu.be/8pTEmbeENF4) `32:55`
+
 ### 2012
 
 * [Scott Hanselman - Scaling Yourself](https://youtu.be/FS1mnISoG7U) `28:51`
