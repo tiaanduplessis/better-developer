@@ -24,6 +24,7 @@ This list is a collection of developer focused talks, articles & books which I e
 
 ### 2018
 
+* [Alex Kallaway - Applying the science of habit formation to improve coding skills](https://youtu.be/kFjQAasFWUw) `58:25`
 * [Christian Heilmann - Sacrificing The Golden Calf Of “CODING”](https://www.youtube.com/watch?v=xMU9XuUtOOY) `46:53`
 * [John Papa - Ready for Readable Code?](https://youtu.be/56mETnrByBM) `16:49`
 * [Kevlin Henney - Old Is the New New](https://www.youtube.com/watch?v=AbgsfeGvg3E) `50:22`
