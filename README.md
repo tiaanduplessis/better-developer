@@ -58,6 +58,7 @@ This list is a collection of developer focused talks, articles & books which I e
 ### 2013
 
 * [Bret Victor - The Future of Programming](https://youtu.be/8pTEmbeENF4) `32:55`
+- [Dr. Venkat Subramaniam - Caring About Code Quality](https://www.youtube.com/watch?v=_vHuiR3K36E&feature=youtu.be) `1:02:18`
 
 ### 2012
 
