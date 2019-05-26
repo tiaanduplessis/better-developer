@@ -22,6 +22,10 @@ This list is a collection of developer focused talks, articles & books which I e
 
 ## Talks
 
+### 2019
+
+- [Jonathan Blow - Preventing the Collapse of Civilization](https://youtu.be/pW-SOdj4Kkk) `1:04:40`
+
 ### 2018
 
 * [Alex Kallaway - Applying the science of habit formation to improve coding skills](https://youtu.be/kFjQAasFWUw) `58:25`
