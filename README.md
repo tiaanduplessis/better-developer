@@ -25,6 +25,7 @@ This list is a collection of developer focused talks, articles & books which I e
 ### 2019
 
 - [Jonathan Blow - Preventing the Collapse of Civilization](https://youtu.be/pW-SOdj4Kkk) `1:04:40`
+- [Dan Stein - Coders are the new Rock Stars](https://youtu.be/NJdBm9CkANw) `31:20`
 
 ### 2018
 
