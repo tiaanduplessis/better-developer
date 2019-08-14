@@ -33,6 +33,7 @@ This list is a collection of developer focused talks, articles & books which I e
 * [Christian Heilmann - Sacrificing The Golden Calf Of “CODING”](https://www.youtube.com/watch?v=xMU9XuUtOOY) `46:53`
 * [John Papa - Ready for Readable Code?](https://youtu.be/56mETnrByBM) `16:49`
 * [Kevlin Henney - Old Is the New New](https://www.youtube.com/watch?v=AbgsfeGvg3E) `50:22`
+* [Kitze - Navigating the Hype-Driven Frontend Development World Without Going Insane](https://youtu.be/QZ6aC6G0ufg) `33:34`
 * [Lee Byron - Immutable Application Architecture](https://youtu.be/oTcDmnAXZ4E) `31:10`
 * [Patricia Aas - Reading Other People's Code: 10 Effective Techniques](https://www.youtube.com/watch?v=NLmRl1cflhA) `23:31`
 * [Todd Montgomery - Making It Count: Quality is NOT an Option](https://www.youtube.com/watch?v=LTZdmb5-8n8) `43:47`
